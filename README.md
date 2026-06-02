@@ -1,4 +1,5 @@
-## Hi there 👋
+## Formalization Projects
+- Ordinal Decidability: Cubical Agda formalization for the paper [Generalized Decidability via Brouwer Trees](https://arxiv.org/abs/2602.10844) that is joint work with Tom de Jong, Nicolai Kraus, and Fredrik Nordvall Forsberg. [Link](https://bitbucket.org/nicolaikraus/constructive-ordinals-in-hott/src/master/BrouwerTree/OrdinalDecidability/) to the public repository. [Link](https://arxiv.org/src/2602.10844v2/anc/html/Paper.html) to the HTML rendering.
 
 <!--
 **aref-moh/aref-moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
